@@ -11,6 +11,8 @@
  🐒 I like them Tarsiers, Penguins and Geese
  
  🗣 My discord profile is [Tarsier#6520](https://discord.com/users/393368613652004877)
+ 
+ 👪 Join my [Discord server](https://discord.gg/db42WcRzhy)! Its dead, for now...
 
 <!---
 oh, you found my notes... you are nosy arent ya!
