@@ -8,7 +8,9 @@
   
  ☕ I love [Coffee](https://ko-fi.com/lachee)
  
- 🐒 I like them Tarsiers, Penguins and Geese
+ 🔒 More of a private repository person
+ 
+ 🐒 I like them Tarsiers, Penguins and Geese (I know, so random)
  
  🗣 My discord profile is [Tarsier#6520](https://discord.com/users/393368613652004877)
  
