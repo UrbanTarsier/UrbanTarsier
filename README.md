@@ -23,4 +23,4 @@ well ther isnt much to see here... not much of a commenter ya know..
 
 --->
 
-\* edit: thats a lie
+\* thats a lie
