@@ -6,7 +6,7 @@
  
  :flags: Filippino living in Sweden 
   
- ☕ I love [Coffee](https://www.buymeacoffee.com/Tarsier) (edit: thats a lie)
+ ☕ I love [Coffee](https://www.buymeacoffee.com/Tarsier)*
  
  🔒 More of a private repository person
  
@@ -22,3 +22,5 @@ oh, you found my notes... you are nosy arent ya!
 well ther isnt much to see here... not much of a commenter ya know..
 
 --->
+
+* edit: thats a lie
