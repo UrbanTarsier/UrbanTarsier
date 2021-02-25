@@ -2,11 +2,11 @@
 
 # Sup, im Fenwikk!
  
- 💬 Man of many names. Known as Tarsier, Fenwikk and ThatAsianGuyPeople4got. But my real name is...
+ 💬 Man of many names. Known as Tarsier, Fenwikk and ThatAsianGuyPeople4got.
  
  :flags: Filippino living in Sweden 
   
- ☕ I love [Coffee](https://ko-fi.com/lachee)
+ ☕ I love [Coffee](https://www.buymeacoffee.com/Tarsier) (edit: thats a lie)
  
  🔒 More of a private repository person
  
