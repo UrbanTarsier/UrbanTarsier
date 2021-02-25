@@ -23,4 +23,4 @@ well ther isnt much to see here... not much of a commenter ya know..
 
 --->
 
-\<sup><sub>* thats a lie</sub></sup>
+\ <sup><sub>* thats a lie</sub></sup>
