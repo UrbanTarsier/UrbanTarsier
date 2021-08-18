@@ -24,3 +24,5 @@ well ther isnt much to see here... not much of a commenter ya know..
 --->
 
 <sup><sub>* thats a lie</sub></sup>
+
+[![Fenwikk's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenwikk)](https://github.com/anuraghazra/github-readme-stats)
