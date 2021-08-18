@@ -27,4 +27,5 @@ well ther isnt much to see here... not much of a commenter ya know..
 
 --->
 
-[![Fenwikk's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenwikk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Fenwikk's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenwikk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br><br>
+README still under construction!
