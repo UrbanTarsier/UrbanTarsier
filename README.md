@@ -20,14 +20,17 @@ public User GetInfo()
 }
 ```
 
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fenwikk&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenwikk&layout=compact&theme=tokyonight&hide_border=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fenwikk.fenwikk)
+
+
 <!---
 oh, you found my notes... you are nosy arent ya!
 
 well ther isnt much to see here... not much of a commenter ya know..
 
 --->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fenwikk&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenwikk&layout=compact&theme=tokyonight&hide_border=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fenwikk.fenwikk)
