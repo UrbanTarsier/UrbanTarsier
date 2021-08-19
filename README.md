@@ -26,6 +26,7 @@ oh, you found my notes... you are nosy arent ya!
 well ther isnt much to see here... not much of a commenter ya know..
 
 --->
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=fenwikk&show_icons=true&theme=tokyonight&hide_border=true" align="left"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenwikk&layout=compact&theme=tokyonight&hide_border=true" align="right"/><br><br><br><br><br><br><br><br><br>
 
-[![Fenwikk's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenwikk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br><br>
-README still under construction!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fenwikk.fenwikk)
