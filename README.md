@@ -7,12 +7,12 @@ public User GetInfo()
 {
     return new()
     {
-        Nicks = new() { "Tarsier", "Fenwikk", "ThatAsianGuy" },
+        Nicks = new() { "Sigge", "Tarsier", "Fenwikk", "ThatAsianGuy" },
         Pronouns = "he/him",
         Residence = "Sweden",
         Ethnicity = "Filipino",
         Status = "Student",
-        Langs = new() { "C#", "Go(lang)", "Python", "JavaScript" },
+        Langs = new() { "C#", "Go(lang)", "Python", "JavaScript", "TypeScript" },
         Frameworks = new() { "(Asp).Net", "Node.js", "DSharpPlus", "discord.py", "more..." },
         Technologies = new() { "Git", "GitHub", "WordPress", "Postman", "Mac", "Linux", "Windows", "VS Code" },
         Hobbies = new() { "Programming", "Reading", "Gaming", "Basketball", "Anime" }
