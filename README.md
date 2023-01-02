@@ -1,6 +1,6 @@
 # Sup, im Tarsier!
  
- <img align="right" src="https://d.lu.je/avatar/393368613652004877?size=2048" width=300>
+ <img align="right" src="https://d.lu.je/avatar/393368613652004877?size=300" width=300>
  
 ```csharp
 public User GetInfo()
