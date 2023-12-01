@@ -1,4 +1,4 @@
-# Sup, im Tarsier!
+# Sup, im Sigfredo!
  
  <img align="right" src="https://d.lu.je/avatar/393368613652004877?size=300" width=300>
  
@@ -7,7 +7,7 @@ public User GetInfo()
 {
     return new()
     {
-        Nicks = new() { "Sigge", "Tarsier", "Fenwikk", "ThatAsianGuy" },
+        Nicks = new() { "Sigge", "Edo", "ThatAsianGuy" },
         Pronouns = "he/him",
         Residence = "Sweden",
         Ethnicity = "Filipino",
