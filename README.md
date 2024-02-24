@@ -22,8 +22,8 @@ public User GetInfo()
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fenwikk&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fenwikk&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youknowedo&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youknowedo&layout=compact&theme=tokyonight&hide_border=true)
 
 
 <!---
