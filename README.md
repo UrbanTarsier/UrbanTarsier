@@ -23,7 +23,7 @@ public User GetInfo()
 <br>
 
 ## Closed Source Contributions and Projects
-- [Shinner - Skateboarding app](https://www.shinner.app/)
+- [Shinner: Skateboarding app](https://www.shinner.app/) - Internship as a full-stack developer working in React Native and Next.js
 
 
 <!---
