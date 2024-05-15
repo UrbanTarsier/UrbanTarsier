@@ -12,8 +12,8 @@ I'm a full-stack developer currently studying in Göteborgsregionens Teknsiska G
 
  🗣 Add me on [Discord](https://discord.com/users/393368613652004877)
 
- 📹 I love old stuff (picture to the right taken on an old CyberShot)
-
+ 📹 I love old cameras and audio players
+ 
 <br>
 
 ## Closed Source Contributions and Projects
