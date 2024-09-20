@@ -17,7 +17,8 @@ I'm a full-stack developer currently studying in Göteborgsregionens Teknsiska G
 <br>
 
 ## Current project(s)
-- [Linkaroo](/youknowedo/linkaroo) - Open-source Linkfire alternative. Link in bio for music artists. 
+- [Linkaroo](https://github.com/youknowedo/linkaroo) - Open-source Linkfire alternative. Link in bio for music artists.
+- [Tågaborgs Website](https://github.com/youknowedo/tagaborgs) - Website proposal for Tågaborgs Pizzeria & Tågborg Burger Co
 
 ## Closed Source Contributions and Projects
 - [Shinner: Skateboarding app](https://www.shinner.app/) - Internship as a full-stack developer working in React Native and Next.js
