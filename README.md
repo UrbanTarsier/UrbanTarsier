@@ -2,7 +2,7 @@
  
 <img align="right" src="https://d.lu.je/avatar/393368613652004877?size=300" width=300>
 
-I'm a full-stack developer currently studying in Göteborgsregionens Teknsiska Gymnasium (The Gothenburg Region's Technical High School). I usually over scope my projects so most of them never get finished but i try hehe
+I'm a full-stack developer studying in Göteborgsregionens Teknsiska Gymnasium (The Gothenburg Region's Technical High School). I usually over scope my projects so most of them never get finished but i try hehe
 
  🏠 I'm from Gothenburg, Sweden
 
@@ -21,7 +21,8 @@ I'm a full-stack developer currently studying in Göteborgsregionens Teknsiska G
 - [Tågaborgs Website](https://github.com/youknowedo/tagaborgs) - Website proposal for Tågaborgs Pizzeria & Tågborg Burger Co
 
 ## Closed Source Contributions and Projects
-- [Shinner: Skateboarding app](https://www.shinner.app/) - Internship as a full-stack developer working in React Native and Next.js
+- [Embedl: Efficient Deep Learning for Embedded Systems](https://embedl.com) - Internship (2 mo, current) as a software developer working with Python & SvelteKit 
+- [Shinner: Skateboarding app](https://www.shinner.app/) - Internship (1 mo.) as a full-stack developer working in React Native and Next.js
 
 
 <!---
