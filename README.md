@@ -17,7 +17,9 @@ I'm a full-stack developer studying in Göteborgsregionens Teknsiska Gymnasium (
 <br>
 
 ## Current project(s)
-- `ducki` - Study flashcards from the comfort of your terminal to minimize distractions.
+- `ducki` 🦆 Study flashcards from the comfort of your terminal to minimize distractions.
+- `sprigkit` 🍃 My second take on making Sprig games easier
+- `picoboy` 🕹️ All-in-one entertainment (or atleast games + music) runing on a Raspberry Pi Pico
 
 <!---
 oh, you found my notes... you are nosy aren't ya?
