@@ -17,12 +17,7 @@ I'm a full-stack developer studying in Göteborgsregionens Teknsiska Gymnasium (
 <br>
 
 ## Current project(s)
-- `embedl-demo` - Full-time internship at [Embedl](https://embedl.com). A demo comparing Embedl-optimized vs stock-quantized ML models running on RPi 5s (closed source)
-
-## Work experience
-- [`Embedl`: Efficient ML for embedded](https://embedl.com) - Internship (2 mo, current) as a software developer working with Python & SvelteKit 
-- [`Shinner`: Skateboarding app](https://www.shinner.app/) - Internship (1 mo.) as a full-stack developer working with React Native and Next.js
-
+- `ducki` - Study flashcards from the comfort of your terminal to minimize distractions.
 
 <!---
 oh, you found my notes... you are nosy aren't ya?
